@@ -24,7 +24,7 @@ function Person(){
   }
   return(
   <div style={personStyle}>
-    <h1>Name: Rakib Al Hasan</h1>
+    <h1>Name: Sakib Al Hasan</h1>
     <h3>Hero Of the Year</h3>
   </div>
   )
